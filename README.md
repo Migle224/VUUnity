@@ -1,2 +1,2 @@
 # VUUnity
-VU Unity game
+VU Unity game by Pagan Studios
